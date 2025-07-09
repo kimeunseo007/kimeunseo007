@@ -1,21 +1,10 @@
-<h1 align="center"> ✨Welcome to My Github✨ </h1>
-
-<br>
-
-<p align="center">
-  <a href="https://hits.sh/github.com/dunde-o/">
-    <img alt="Hits" src="https://hits.sh/github.com/dunde-o.svg?label=%EC%A0%84%EC%B2%B4%20%EB%B0%A9%EB%AC%B8%EC%9E%90"/>
-  </a>
-</p>
-
-</br>
+<h1 align="center"> Welcome to My Github </h1>
 
 <h3 align="center">🎓 learning now ✏</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=plastic&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white"/>
 </p>
@@ -26,9 +15,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=plastic&logo=googlecolab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=plastic&logo=IntelliJIDEA&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gitpod-032F5A?style=plastic&logo=gitpod&logoColor=white"/>
 </p>
 
 <br/>
