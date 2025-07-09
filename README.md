@@ -35,20 +35,3 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=plastic&logo=GitHubActions&logoColor=white"/>
 </p>
 
-<br/><br/>
-
-<p align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chldlsrb1000" width="300"/>
-</p>
-
-<br/><br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yunprac&show_icons=true&theme=tokyonight"/>
-</p>
-
-<br/><br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimeunseo007&layout=compact"/>
-</p>
