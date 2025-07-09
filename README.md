@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://www.naver.com/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=FFFFFF&height=300&section=header&text=Dunde%20:%20web&fontSize=85&fontAlignY=40&rotate=7" />
-  </a>
-</p>
-
 <h1 align="center"> ✨Welcome to My Github✨ </h1>
 
 <br>
